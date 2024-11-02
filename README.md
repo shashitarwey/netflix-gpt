@@ -16,6 +16,11 @@
   - Build the Project -> `npm run build`
   - Deploy the Project -> `firebase deploy`
 - Create Signup User Account in Firebase
+- Implement Sign In User API
+- Created Redux Store with userSlice
+- Implemented Sign out
+- Update Profile API
+
 
 # Features:
 - Login/Sign Up Page
