@@ -34,6 +34,9 @@
 - Update store with trailer video data
 - Embedded the Youtube Video and make it autoplay and mute
 - Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- usePopularMovies Custom Hook
 
 # Features:
 - Login/Sign Up Page
