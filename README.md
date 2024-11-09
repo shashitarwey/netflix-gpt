@@ -33,6 +33,7 @@
 - Fetch Data for trailer video
 - Update store with trailer video data
 - Embedded the Youtube Video and make it autoplay and mute
+- Build Secondary Component
 
 # Features:
 - Login/Sign Up Page
