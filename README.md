@@ -28,6 +28,11 @@
 - Register for TMDP API & create an app and get access token
 - Get Data from TMDB Now Playing API
 - Created Custom Hook for nowPlayingMovies
+- Created MovieSlice
+- Planning for MainContainer and Secondary Container
+- Fetch Data for trailer video
+- Update store with trailer video data
+- Embedded the Youtube Video and make it autoplay and mute
 
 # Features:
 - Login/Sign Up Page
