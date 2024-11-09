@@ -27,6 +27,7 @@
 - Add Harcoded value to the constants file
 - Register for TMDP API & create an app and get access token
 - Get Data from TMDB Now Playing API
+- Created Custom Hook for nowPlayingMovies
 
 # Features:
 - Login/Sign Up Page
