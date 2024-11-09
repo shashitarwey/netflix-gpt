@@ -25,7 +25,8 @@
   - If the user is not logged in Redirect user to /browse to Login Page and vice-versa.
 - Unsubscribe to the onAuthStateChanged callback
 - Add Harcoded value to the constants file
-- Fetch from TMDB Movies
+- Register for TMDP API & create an app and get access token
+- Get Data from TMDB Now Playing API
 
 # Features:
 - Login/Sign Up Page
