@@ -5,7 +5,7 @@ import {
   updateProfile,
 } from 'firebase/auth';
 import Header from './Header';
-import { BG_URL, PROFILE_PIC, USER_AVATAR } from '../utils/constants';
+import { BG_URL, PROFILE_PIC } from '../utils/constants';
 import { checkValidData } from '../utils/validate';
 import { auth } from '../utils/firebase';
 import { useDispatch } from 'react-redux';
