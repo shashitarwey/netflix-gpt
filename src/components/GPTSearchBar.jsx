@@ -6,13 +6,13 @@ const GPTSearchBar = () => {
   console.log('kkkkkkk', langKey)
   return (
     <div className="pt-[10%] flex justify-center">
-      <form className="w-1/2 bg-black">
+      <form className="w-1/2 bg-black grid grid-cols-12">
         <input
           type="text"
-          className="p-4 m-4 rounded-sm"
+          className="p-4 m-4 rounded-sm col-span-9"
           placeholder={lang[langKey].gptSearchPlaceholder}
         />
-        <button className="m-4 py-2 px-4 bg-red-700 text-white rounded-md col-span-4">{lang[langKey].search}</button>
+        <button className="m-4 py-2 px-4 bg-red-700 text-white rounded-md col-span-3">{lang[langKey].search}</button>
       </form>
     </div>
   );
