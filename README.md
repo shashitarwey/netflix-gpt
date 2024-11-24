@@ -40,6 +40,13 @@
 - GPT Search Feature
 - Multi-Lingual Feature in our App
 - Integrate GPT API's
+- GPT Search API Call
+- Fetched GPT Movie Suggestions from TMDB
+- Created GPT Slice and added data
+- Reused Movie List Component to make movie suggestion
+- Adding .env file to git ignore
+- Memoization
+- Made our app responsive
 
 # Features:
 - Login/Sign Up Page
